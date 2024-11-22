@@ -6,7 +6,7 @@ public class Main {
         // Tablica obiektów Message
         Message[] messages = new Message[] {
                 new PushNotification("Marta", "System"),
-                new WhatsAppMessage("Ryszard", "Marta", "Hello Bob!")
+                new WhatsAppMessage("Ryszard", "Marta", "Hello Ryszard!")
         };
 
         // Przechodzenie przez tablicę i wywoływanie sendMessage()
